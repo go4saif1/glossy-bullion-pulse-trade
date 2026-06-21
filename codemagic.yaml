@@ -1,0 +1,3 @@
+workflows:
+ios-app:
+instance_type: mac_mini_m1
